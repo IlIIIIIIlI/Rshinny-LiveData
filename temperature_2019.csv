@@ -1,0 +1,113 @@
+lat,long,elev,name,Year,Temp,tooltip
+-14.3,126.65,23,KALUMBURU,2019,35.37143,<strong> Temperature in KALUMBURU </strong>is<strong> 35.37143 C</strong>
+-18.23,127.66,422,HALLS CREEK,2019,36.67415,<strong> Temperature in HALLS CREEK </strong>is<strong> 36.67415 C</strong>
+-17.95,122.24,7.4,BROOME AIRPORT,2019,34.26067,<strong> Temperature in BROOME AIRPORT </strong>is<strong> 34.26067 C</strong>
+-20.37,118.63,6.4,PORT HEDLAND AIRPORT,2019,35.78446,<strong> Temperature in PORT HEDLAND AIRPORT </strong>is<strong> 35.78446 C</strong>
+-21.18,119.75,182.3,MARBLE BAR,2019,38.96225,<strong> Temperature in MARBLE BAR </strong>is<strong> 38.96225 C</strong>
+-22.24,114.1,5,LEARMONTH AIRPORT,2019,36.6443,<strong> Temperature in LEARMONTH AIRPORT </strong>is<strong> 36.6443 C</strong>
+-22.24,118.34,463,WITTENOOM,2019,37.92133,<strong> Temperature in WITTENOOM </strong>is<strong> 37.92133 C</strong>
+-24.89,113.67,4,CARNARVON AIRPORT,2019,30.86174,<strong> Temperature in CARNARVON AIRPORT </strong>is<strong> 30.86174 C</strong>
+-26.61,118.54,517,MEEKATHARRA AIRPORT,2019,35.21409,<strong> Temperature in MEEKATHARRA AIRPORT </strong>is<strong> 35.21409 C</strong>
+-29.2,116.02,271.4,MORAWA AIRPORT,2019,33.07351,<strong> Temperature in MORAWA AIRPORT </strong>is<strong> 33.07351 C</strong>
+-30.28,116.67,324.5,DALWALLINU,2019,30.93907,<strong> Temperature in DALWALLINU </strong>is<strong> 30.93907 C</strong>
+-28.8,114.7,29.7,GERALDTON AIRPORT,2019,29.61208,<strong> Temperature in GERALDTON AIRPORT </strong>is<strong> 29.61208 C</strong>
+-31.93,115.98,15.4,PERTH AIRPORT,2019,28.5649,<strong> Temperature in PERTH AIRPORT </strong>is<strong> 28.5649 C</strong>
+-34.37,115.14,13,CAPE LEEUWIN,2019,21.44503,<strong> Temperature in CAPE LEEUWIN </strong>is<strong> 21.44503 C</strong>
+-33.95,116.13,178.7,BRIDGETOWN,2019,25.56301,<strong> Temperature in BRIDGETOWN </strong>is<strong> 25.56301 C</strong>
+-33.83,121.89,25,ESPERANCE,2019,24.00604,<strong> Temperature in ESPERANCE </strong>is<strong> 24.00604 C</strong>
+-34.94,117.82,68.4,ALBANY,2019,22.5,<strong> Temperature in ALBANY </strong>is<strong> 22.5 C</strong>
+-31.48,118.28,315,MERREDIN,2019,29.88867,<strong> Temperature in MERREDIN </strong>is<strong> 29.88867 C</strong>
+-31.62,117.22,216.7,CUNDERDIN,2019,30.31325,<strong> Temperature in CUNDERDIN </strong>is<strong> 30.31325 C</strong>
+-33.69,117.61,320,KATANNING,2019,25.61788,<strong> Temperature in KATANNING </strong>is<strong> 25.61788 C</strong>
+-32.67,116.67,275,WANDERING,2019,27.57219,<strong> Temperature in WANDERING </strong>is<strong> 27.57219 C</strong>
+-31.68,128.9,93.1,EUCLA,2019,26.30662,<strong> Temperature in EUCLA </strong>is<strong> 26.30662 C</strong>
+-30.85,128.11,159,FORREST,2019,30.20933,<strong> Temperature in FORREST </strong>is<strong> 30.20933 C</strong>
+-30.78,121.45,365.3,KALGOORLIE-BOULDER,2019,29.135,<strong> Temperature in KALGOORLIE-BOULDER </strong>is<strong> 29.135 C</strong>
+-25.03,128.3,598,GILES,2019,35.0596,<strong> Temperature in GILES </strong>is<strong> 35.0596 C</strong>
+-12.42,130.89,30.4,DARWIN,2019,32.91656,<strong> Temperature in DARWIN </strong>is<strong> 32.91656 C</strong>
+-16.4,131.01,88.5,VICTORIA RIVER DOWNS,2019,37.27047,<strong> Temperature in VICTORIA RIVER DOWNS </strong>is<strong> 37.27047 C</strong>
+-19.64,134.18,375.7,TENNANTCREEKAIRPORT,2019,35.88808,<strong> Temperature in TENNANTCREEKAIRPORT </strong>is<strong> 35.88808 C</strong>
+-23.8,133.89,546,ALICE SPRINGS,2019,33.85733,<strong> Temperature in ALICE SPRINGS </strong>is<strong> 33.85733 C</strong>
+-20.18,130.01,340,RABBIT FLAT,2019,38.23974,<strong> Temperature in RABBIT FLAT </strong>is<strong> 38.23974 C</strong>
+-31.16,136.81,166.6,WOOMERA,2019,31.07267,<strong> Temperature in WOOMERA </strong>is<strong> 31.07267 C</strong>
+-30.71,134.58,123,TARCOOLA,2019,32,<strong> Temperature in TARCOOLA </strong>is<strong> 32 C</strong>
+-27.56,135.45,116.5,OODNADATTA,2019,34.44503,<strong> Temperature in OODNADATTA </strong>is<strong> 34.44503 C</strong>
+-29.66,138.07,50,MARREE,2019,33.91194,<strong> Temperature in MARREE </strong>is<strong> 33.91194 C</strong>
+-32.13,133.7,15.3,CEDUNAAMO,2019,26.74834,<strong> Temperature in CEDUNAAMO </strong>is<strong> 26.74834 C</strong>
+-33.13,135.55,59,KYANCUTTA,2019,29.80667,<strong> Temperature in KYANCUTTA </strong>is<strong> 29.80667 C</strong>
+-34.6,135.88,8.5,PORT LINCOLN,2019,24.58411,<strong> Temperature in PORT LINCOLN </strong>is<strong> 24.58411 C</strong>
+-33.77,138.22,109.1,RAYVILLEPARK,2019,28.51391,<strong> Temperature in RAYVILLEPARK </strong>is<strong> 28.51391 C</strong>
+-35.75,136.6,158,CAPEBORDA,2019,22.35762,<strong> Temperature in CAPEBORDA </strong>is<strong> 22.35762 C</strong>
+-34.92,138.62,48,KENTTOWN,2019,27.04768,<strong> Temperature in KENTTOWN </strong>is<strong> 27.04768 C</strong>
+-34.48,139.01,275,NURIOOTPAPIRSA,2019,26.23046,<strong> Temperature in NURIOOTPAPIRSA </strong>is<strong> 26.23046 C</strong>
+-37.75,140.77,63,MOUNT GAMBIER,2019,22.97682,<strong> Temperature in MOUNT GAMBIER </strong>is<strong> 22.97682 C</strong>
+-37.16,139.76,3.3,ROBE,2019,20.7947,<strong> Temperature in ROBE </strong>is<strong> 20.7947 C</strong>
+-12.68,141.92,18,WEIPAAERO,2019,31.89533,<strong> Temperature in WEIPAAERO </strong>is<strong> 31.89533 C</strong>
+-10.58,142.29,4,HORNISLAND,2019,30.61126,<strong> Temperature in HORNISLAND </strong>is<strong> 30.61126 C</strong>
+-16,144.08,203.8,PALMERVILLE,2019,31.94267,<strong> Temperature in PALMERVILLE </strong>is<strong> 31.94267 C</strong>
+-17.69,141.07,18.4,NORMANTON,2019,34.11208,<strong> Temperature in NORMANTON </strong>is<strong> 34.11208 C</strong>
+-17.75,139.54,5.7,BURKETOWN,2019,34.50066,<strong> Temperature in BURKETOWN </strong>is<strong> 34.50066 C</strong>
+-20.73,143.14,211.1,RICHMOND POST OFFICE,2019,33.98919,<strong> Temperature in RICHMOND POST OFFICE </strong>is<strong> 33.98919 C</strong>
+-18.3,143.53,301.8,GEORGETOWN,2019,32.66026,<strong> Temperature in GEORGETOWN </strong>is<strong> 32.66026 C</strong>
+-16.87,145.75,2.2,CAIRNSAERO,2019,30.44228,<strong> Temperature in CAIRNSAERO </strong>is<strong> 30.44228 C</strong>
+-19.25,146.77,4.3,TOWNSVILLE,2019,30.60872,<strong> Temperature in TOWNSVILLE </strong>is<strong> 30.60872 C</strong>
+-21.12,149.22,30.3,MACKAY,2019,28.09456,<strong> Temperature in MACKAY </strong>is<strong> 28.09456 C</strong>
+-20.05,146.27,289.8,CHARTERS TOWERS,2019,30.82013,<strong> Temperature in CHARTERS TOWERS </strong>is<strong> 30.82013 C</strong>
+-23.55,145.29,266.9,BARCALDINE,2019,33.04094,<strong> Temperature in BARCALDINE </strong>is<strong> 33.04094 C</strong>
+-23.44,144.28,192.2,LONGREACH,2019,33.65034,<strong> Temperature in LONGREACH </strong>is<strong> 33.65034 C</strong>
+-19.92,138.12,231.2,CAMOOWEAL,2019,35.3702,<strong> Temperature in CAMOOWEAL </strong>is<strong> 35.3702 C</strong>
+-22.91,139.9,161.8,BOULIA,2019,34.15563,<strong> Temperature in BOULIA </strong>is<strong> 34.15563 C</strong>
+-25.9,139.35,46.6,BIRDSVILLE,2019,34.84437,<strong> Temperature in BIRDSVILLE </strong>is<strong> 34.84437 C</strong>
+-25.62,151.62,110.9,GAYNDAH,2019,31.31507,<strong> Temperature in GAYNDAH </strong>is<strong> 31.31507 C</strong>
+-23.38,150.48,10.4,ROCKHAMPTON,2019,30.91192,<strong> Temperature in ROCKHAMPTON </strong>is<strong> 30.91192 C</strong>
+-24.91,152.32,30.8,BUNDABERGAERO,2019,29.91921,<strong> Temperature in BUNDABERGAERO </strong>is<strong> 29.91921 C</strong>
+-27.63,152.71,24.2,AMBERLEYAMO,2019,30.30473,<strong> Temperature in AMBERLEYAMO </strong>is<strong> 30.30473 C</strong>
+-27.03,153.47,99.9,CAPE MORETON LIGHTHOUSE,2019,26.73267,<strong> Temperature in CAPE MORETON LIGHTHOUSE </strong>is<strong> 26.73267 C</strong>
+-27.39,153.13,4.5,BRISBANEAERO,2019,27.72715,<strong> Temperature in BRISBANEAERO </strong>is<strong> 27.72715 C</strong>
+-26.66,150.18,304.8,MILES CONSTANCE STREET,2019,31.13974,<strong> Temperature in MILES CONSTANCE STREET </strong>is<strong> 31.13974 C</strong>
+-28.05,148.59,198.5,ST GEORGE AIRPORT,2019,31.91,<strong> Temperature in ST GEORGE AIRPORT </strong>is<strong> 31.91 C</strong>
+-26.41,146.26,301.6,CHARLEVILLE,2019,32.34967,<strong> Temperature in CHARLEVILLE </strong>is<strong> 32.34967 C</strong>
+-27.99,143.82,130.9,THARGOMINDAH,2019,32.03178,<strong> Temperature in THARGOMINDAH </strong>is<strong> 32.03178 C</strong>
+-31.52,143.39,94.3,WILCANNIA,2019,31.85973,<strong> Temperature in WILCANNIA </strong>is<strong> 31.85973 C</strong>
+-29.44,142.06,176.4,TIBOOBURRA,2019,32.83113,<strong> Temperature in TIBOOBURRA </strong>is<strong> 32.83113 C</strong>
+-31.48,145.83,260,COBARMO,2019,30.90929,<strong> Temperature in COBARMO </strong>is<strong> 30.90929 C</strong>
+-30.04,145.95,107.3,BOURKE,2019,32.95099,<strong> Temperature in BOURKE </strong>is<strong> 32.95099 C</strong>
+-33.94,147.2,257,WESTWYALONG,2019,29.10066,<strong> Temperature in WESTWYALONG </strong>is<strong> 29.10066 C</strong>
+-30.04,148.12,133,WALGETT,2019,32.46026,<strong> Temperature in WALGETT </strong>is<strong> 32.46026 C</strong>
+-29.49,149.85,213,MOREEAERO,2019,31.83576,<strong> Temperature in MOREEAERO </strong>is<strong> 31.83576 C</strong>
+-31.03,150.27,307,GUNNEDAH,2019,30.23841,<strong> Temperature in GUNNEDAH </strong>is<strong> 30.23841 C</strong>
+-29.78,151.11,582,INVERELL,2019,29.22185,<strong> Temperature in INVERELL </strong>is<strong> 29.22185 C</strong>
+-29.43,153.36,27.4,YAMBA PILOT STATION,2019,26.95638,<strong> Temperature in YAMBA PILOT STATION </strong>is<strong> 26.95638 C</strong>
+-30.32,153.12,3.5,COFFS HARBOUR,2019,26.8543,<strong> Temperature in COFFS HARBOUR </strong>is<strong> 26.8543 C</strong>
+-31.43,152.87,4.2,PORT MACQUARIE,2019,27.46291,<strong> Temperature in PORT MACQUARIE </strong>is<strong> 27.46291 C</strong>
+-32.79,151.84,7.5,WILLIAMTOWN,2019,27.84503,<strong> Temperature in WILLIAMTOWN </strong>is<strong> 27.84503 C</strong>
+-32.03,150.83,221.4,SCONE,2019,29.76291,<strong> Temperature in SCONE </strong>is<strong> 29.76291 C</strong>
+-33.43,149.56,713,BATHURS TAGRICULTURAL STATION,2019,25.40616,<strong> Temperature in BATHURS TAGRICULTURAL STATION </strong>is<strong> 25.40616 C</strong>
+-32.22,148.58,284,DUBBO,2019,30.44521,<strong> Temperature in DUBBO </strong>is<strong> 30.44521 C</strong>
+-33.86,151.21,39,SYDNEY (OBSERVATORYHILL),2019,26.23311,<strong> Temperature in SYDNEY (OBSERVATORYHILL) </strong>is<strong> 26.23311 C</strong>
+-33.6,150.78,19,RICHMOND,2019,28.08013,<strong> Temperature in RICHMOND </strong>is<strong> 28.08013 C</strong>
+-34.95,150.54,109,NOWRARAN,2019,25.78609,<strong> Temperature in NOWRARAN </strong>is<strong> 25.78609 C</strong>
+-35.09,150.8,85,POINT PERPENDICULAR,2019,23.41126,<strong> Temperature in POINT PERPENDICULAR </strong>is<strong> 23.41126 C</strong>
+-35.91,150.15,17,MORUYAHEADS,2019,23.01722,<strong> Temperature in MORUYAHEADS </strong>is<strong> 23.01722 C</strong>
+-35.31,149.2,577.1,CANBERRA AIRPORT,2019,25.72053,<strong> Temperature in CANBERRA AIRPORT </strong>is<strong> 25.72053 C</strong>
+-35.16,147.46,212,WAGGA WAGGA,2019,28.01788,<strong> Temperature in WAGGA WAGGA </strong>is<strong> 28.01788 C</strong>
+-35.94,148.38,1482.4,CABRAMURRA,2019,17.054305,<strong> Temperature in CABRAMURRA </strong>is<strong> 17.054305 C</strong>
+-35.56,144.95,94,DENILIQUIN,2019,28.61391,<strong> Temperature in DENILIQUIN </strong>is<strong> 28.61391 C</strong>
+-34.24,142.09,50,MILDURA,2019,29.31656,<strong> Temperature in MILDURA </strong>is<strong> 29.31656 C</strong>
+-36.31,141.65,138.9,NHILL,2019,26.71333,<strong> Temperature in NHILL </strong>is<strong> 26.71333 C</strong>
+-35.72,143.92,77.7,KERANG,2019,28.6396,<strong> Temperature in KERANG </strong>is<strong> 28.6396 C</strong>
+-36.1,146.51,175,RUTHERGLEN,2019,27.84106,<strong> Temperature in RUTHERGLEN </strong>is<strong> 27.84106 C</strong>
+-37.57,149.92,15.2,GABOISLAND LIGHTHOUSE,2019,21.31656,<strong> Temperature in GABOISLAND LIGHTHOUSE </strong>is<strong> 21.31656 C</strong>
+-37.69,148.47,62.7,ORBOST,2019,23.73597,<strong> Temperature in ORBOST </strong>is<strong> 23.73597 C</strong>
+-38.12,147.13,4.6,EASTSALE,2019,24.17616,<strong> Temperature in EASTSALE </strong>is<strong> 24.17616 C</strong>
+-39.13,146.42,95,WILSONS PROMONTORY LIGHTHOUSE,2019,20.08462,<strong> Temperature in WILSONS PROMONTORY LIGHTHOUSE </strong>is<strong> 20.08462 C</strong>
+-37.83,144.98,7.5,MELBOURNE(OLYMPICPARK),2019,23.7702,<strong> Temperature in MELBOURNE(OLYMPICPARK) </strong>is<strong> 23.7702 C</strong>
+-37.86,144.76,20.1,LAVERTON,2019,24.05364,<strong> Temperature in LAVERTON </strong>is<strong> 24.05364 C</strong>
+-38.86,143.51,82,CAPE OTWAY LIGHTHOUSE,2019,19.96887,<strong> Temperature in CAPE OTWAY LIGHTHOUSE </strong>is<strong> 19.96887 C</strong>
+-41.05,146.79,3,LOWHEAD,2019,19.146,<strong> Temperature in LOWHEAD </strong>is<strong> 19.146 C</strong>
+-41.55,147.22,166.9,LAUNCESTONAIRPORT,2019,21.252,<strong> Temperature in LAUNCESTONAIRPORT </strong>is<strong> 21.252 C</strong>
+-40.99,148.35,19.7,LARAPUNA(EDDYSTONEPOINT),2019,21.17533,<strong> Temperature in LARAPUNA(EDDYSTONEPOINT) </strong>is<strong> 21.17533 C</strong>
+-43.49,147.15,55,CAPEBRUNY LIGHTHOUSE,2019,18.34,<strong> Temperature in CAPEBRUNY LIGHTHOUSE </strong>is<strong> 18.34 C</strong>
+-42.89,147.33,50.5,HOBART(ELLERSLIEROAD),2019,21.136,<strong> Temperature in HOBART(ELLERSLIEROAD) </strong>is<strong> 21.136 C</strong>
+-42.99,147.07,65,GROVE(RESEARCHSTATION),2019,20.862,<strong> Temperature in GROVE(RESEARCHSTATION) </strong>is<strong> 20.862 C</strong>
+-42.28,146.28,667,BUTLERS GORGE,2019,16.05252,<strong> Temperature in BUTLERS GORGE </strong>is<strong> 16.05252 C</strong>

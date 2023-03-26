@@ -1,0 +1,481 @@
+﻿state,state_name,date,homeless_service
+new south wales,New South Wales,201707 ,22017
+victoria,Victoria,201707 ,30511
+queensland,Queensland,201707 ,10650
+western australia,Western Australia,201707 ,5932
+south australia,South Australia,201707 ,6308
+tasmania,Tasmania,201707 ,2270
+australian capital territory,Australian Capital Territory,201707 ,1606
+northern territory,Northern Territory,201707 ,2895
+new south wales,New South Wales,201708 ,22120
+victoria,Victoria,201708 ,31526
+queensland,Queensland,201708 ,11005
+western australia,Western Australia,201708 ,5988
+south australia,South Australia,201708 ,6365
+tasmania,Tasmania,201708 ,2296
+australian capital territory,Australian Capital Territory,201708 ,1653
+northern territory,Northern Territory,201708 ,2957
+new south wales,New South Wales,201709 ,22036
+victoria,Victoria,201709 ,30538
+queensland,Queensland,201709 ,10916
+western australia,Western Australia,201709 ,5736
+south australia,South Australia,201709 ,6312
+tasmania,Tasmania,201709 ,2198
+australian capital territory,Australian Capital Territory,201709 ,1568
+northern territory,Northern Territory,201709 ,2919
+new south wales,New South Wales,201710 ,22112
+victoria,Victoria,201710 ,31563
+queensland,Queensland,201710 ,10824
+western australia,Western Australia,201710 ,6102
+south australia,South Australia,201710 ,6281
+tasmania,Tasmania,201710 ,2219
+australian capital territory,Australian Capital Territory,201710 ,1616
+northern territory,Northern Territory,201710 ,3137
+new south wales,New South Wales,201711 ,22708
+victoria,Victoria,201711 ,31732
+queensland,Queensland,201711 ,11048
+western australia,Western Australia,201711 ,6043
+south australia,South Australia,201711 ,6400
+tasmania,Tasmania,201711 ,2204
+australian capital territory,Australian Capital Territory,201711 ,1637
+northern territory,Northern Territory,201711 ,3215
+new south wales,New South Wales,201712 ,21185
+victoria,Victoria,201712 ,30768
+queensland,Queensland,201712 ,10374
+western australia,Western Australia,201712 ,5775
+south australia,South Australia,201712 ,5953
+tasmania,Tasmania,201712 ,2162
+australian capital territory,Australian Capital Territory,201712 ,1586
+northern territory,Northern Territory,201712 ,3142
+new south wales,New South Wales,201801 ,22150
+victoria,Victoria,201801 ,32008
+queensland,Queensland,201801 ,11386
+western australia,Western Australia,201801 ,6074
+south australia,South Australia,201801 ,6291
+tasmania,Tasmania,201801 ,2278
+australian capital territory,Australian Capital Territory,201801 ,1680
+northern territory,Northern Territory,201801 ,3196
+new south wales,New South Wales,201802 ,22770
+victoria,Victoria,201802 ,32126
+queensland,Queensland,201802 ,11509
+western australia,Western Australia,201802 ,6087
+south australia,South Australia,201802 ,6442
+tasmania,Tasmania,201802 ,2274
+australian capital territory,Australian Capital Territory,201802 ,1663
+northern territory,Northern Territory,201802 ,2965
+new south wales,New South Wales,201803 ,23295
+victoria,Victoria,201803 ,32966
+queensland,Queensland,201803 ,11855
+western australia,Western Australia,201803 ,6164
+south australia,South Australia,201803 ,6595
+tasmania,Tasmania,201803 ,2219
+australian capital territory,Australian Capital Territory,201803 ,1654
+northern territory,Northern Territory,201803 ,3003
+new south wales,New South Wales,201804 ,22695
+victoria,Victoria,201804 ,32834
+queensland,Queensland,201804 ,11900
+western australia,Western Australia,201804 ,5818
+south australia,South Australia,201804 ,6335
+tasmania,Tasmania,201804 ,2181
+australian capital territory,Australian Capital Territory,201804 ,1635
+northern territory,Northern Territory,201804 ,3029
+new south wales,New South Wales,201805 ,23742
+victoria,Victoria,201805 ,34338
+queensland,Queensland,201805 ,12162
+western australia,Western Australia,201805 ,5927
+south australia,South Australia,201805 ,6616
+tasmania,Tasmania,201805 ,2222
+australian capital territory,Australian Capital Territory,201805 ,1659
+northern territory,Northern Territory,201805 ,3046
+new south wales,New South Wales,201806 ,23408
+victoria,Victoria,201806 ,32805
+queensland,Queensland,201806 ,11881
+western australia,Western Australia,201806 ,5902
+south australia,South Australia,201806 ,6334
+tasmania,Tasmania,201806 ,2173
+australian capital territory,Australian Capital Territory,201806 ,1590
+northern territory,Northern Territory,201806 ,3063
+new south wales,New South Wales,201807 ,23347
+victoria,Victoria,201807 ,33004
+queensland,Queensland,201807 ,11687
+western australia,Western Australia,201807 ,6052
+south australia,South Australia,201807 ,6288
+tasmania,Tasmania,201807 ,2171
+australian capital territory,Australian Capital Territory,201807 ,1597
+northern territory,Northern Territory,201807 ,2989
+new south wales,New South Wales,201808 ,23854
+victoria,Victoria,201808 ,32603
+queensland,Queensland,201808 ,12068
+western australia,Western Australia,201808 ,6110
+south australia,South Australia,201808 ,6242
+tasmania,Tasmania,201808 ,2247
+australian capital territory,Australian Capital Territory,201808 ,1642
+northern territory,Northern Territory,201808 ,3199
+new south wales,New South Wales,201809 ,23133
+victoria,Victoria,201809 ,31082
+queensland,Queensland,201809 ,12007
+western australia,Western Australia,201809 ,5892
+south australia,South Australia,201809 ,6314
+tasmania,Tasmania,201809 ,2289
+australian capital territory,Australian Capital Territory,201809 ,1611
+northern territory,Northern Territory,201809 ,3124
+new south wales,New South Wales,201810 ,23887
+victoria,Victoria,201810 ,32739
+queensland,Queensland,201810 ,12610
+western australia,Western Australia,201810 ,6397
+south australia,South Australia,201810 ,6543
+tasmania,Tasmania,201810 ,2339
+australian capital territory,Australian Capital Territory,201810 ,1587
+northern territory,Northern Territory,201810 ,3223
+new south wales,New South Wales,201811 ,23850
+victoria,Victoria,201811 ,32833
+queensland,Queensland,201811 ,12437
+western australia,Western Australia,201811 ,6212
+south australia,South Australia,201811 ,6618
+tasmania,Tasmania,201811 ,2376
+australian capital territory,Australian Capital Territory,201811 ,1629
+northern territory,Northern Territory,201811 ,3259
+new south wales,New South Wales,201812 ,22355
+victoria,Victoria,201812 ,31626
+queensland,Queensland,201812 ,11712
+western australia,Western Australia,201812 ,6202
+south australia,South Australia,201812 ,6020
+tasmania,Tasmania,201812 ,2218
+australian capital territory,Australian Capital Territory,201812 ,1565
+northern territory,Northern Territory,201812 ,3060
+new south wales,New South Wales,201901 ,23240
+victoria,Victoria,201901 ,32396
+queensland,Queensland,201901 ,12808
+western australia,Western Australia,201901 ,6697
+south australia,South Australia,201901 ,6451
+tasmania,Tasmania,201901 ,2413
+australian capital territory,Australian Capital Territory,201901 ,1657
+northern territory,Northern Territory,201901 ,3232
+new south wales,New South Wales,201902 ,23750
+victoria,Victoria,201902 ,33139
+queensland,Queensland,201902 ,12508
+western australia,Western Australia,201902 ,6551
+south australia,South Australia,201902 ,6514
+tasmania,Tasmania,201902 ,2470
+australian capital territory,Australian Capital Territory,201902 ,1696
+northern territory,Northern Territory,201902 ,3137
+new south wales,New South Wales,201903 ,24151
+victoria,Victoria,201903 ,33515
+queensland,Queensland,201903 ,12766
+western australia,Western Australia,201903 ,6861
+south australia,South Australia,201903 ,6676
+tasmania,Tasmania,201903 ,2516
+australian capital territory,Australian Capital Territory,201903 ,1639
+northern territory,Northern Territory,201903 ,3298
+new south wales,New South Wales,201904 ,23609
+victoria,Victoria,201904 ,32751
+queensland,Queensland,201904 ,12453
+western australia,Western Australia,201904 ,6569
+south australia,South Australia,201904 ,6298
+tasmania,Tasmania,201904 ,2427
+australian capital territory,Australian Capital Territory,201904 ,1600
+northern territory,Northern Territory,201904 ,3126
+new south wales,New South Wales,201905 ,24011
+victoria,Victoria,201905 ,34309
+queensland,Queensland,201905 ,12679
+western australia,Western Australia,201905 ,6851
+south australia,South Australia,201905 ,6638
+tasmania,Tasmania,201905 ,2528
+australian capital territory,Australian Capital Territory,201905 ,1642
+northern territory,Northern Territory,201905 ,3223
+new south wales,New South Wales,201906 ,23356
+victoria,Victoria,201906 ,32760
+queensland,Queensland,201906 ,12224
+western australia,Western Australia,201906 ,6510
+south australia,South Australia,201906 ,6155
+tasmania,Tasmania,201906 ,2411
+australian capital territory,Australian Capital Territory,201906 ,1562
+northern territory,Northern Territory,201906 ,3143
+new south wales,New South Wales,201907 ,23287
+victoria,Victoria,201907 ,33473
+queensland,Queensland,201907 ,12073
+western australia,Western Australia,201907 ,6587
+south australia,South Australia,201907 ,6344
+tasmania,Tasmania,201907 ,2483
+australian capital territory,Australian Capital Territory,201907 ,1610
+northern territory,Northern Territory,201907 ,3174
+new south wales,New South Wales,201908 ,23396
+victoria,Victoria,201908 ,33484
+queensland,Queensland,201908 ,11968
+western australia,Western Australia,201908 ,6644
+south australia,South Australia,201908 ,6321
+tasmania,Tasmania,201908 ,2474
+australian capital territory,Australian Capital Territory,201908 ,1681
+northern territory,Northern Territory,201908 ,3117
+new south wales,New South Wales,201909 ,23199
+victoria,Victoria,201909 ,32681
+queensland,Queensland,201909 ,11950
+western australia,Western Australia,201909 ,6304
+south australia,South Australia,201909 ,6393
+tasmania,Tasmania,201909 ,2408
+australian capital territory,Australian Capital Territory,201909 ,1649
+northern territory,Northern Territory,201909 ,3208
+new south wales,New South Wales,201910 ,23219
+victoria,Victoria,201910 ,34013
+queensland,Queensland,201910 ,12168
+western australia,Western Australia,201910 ,6514
+south australia,South Australia,201910 ,6434
+tasmania,Tasmania,201910 ,2392
+australian capital territory,Australian Capital Territory,201910 ,1733
+northern territory,Northern Territory,201910 ,3372
+new south wales,New South Wales,201911 ,23340
+victoria,Victoria,201911 ,33241
+queensland,Queensland,201911 ,12248
+western australia,Western Australia,201911 ,6585
+south australia,South Australia,201911 ,6197
+tasmania,Tasmania,201911 ,2369
+australian capital territory,Australian Capital Territory,201911 ,1734
+northern territory,Northern Territory,201911 ,3271
+new south wales,New South Wales,201912 ,22061
+victoria,Victoria,201912 ,33312
+queensland,Queensland,201912 ,11733
+western australia,Western Australia,201912 ,6338
+south australia,South Australia,201912 ,6159
+tasmania,Tasmania,201912 ,2341
+australian capital territory,Australian Capital Territory,201912 ,1683
+northern territory,Northern Territory,201912 ,3111
+new south wales,New South Wales,202001 ,23137
+victoria,Victoria,202001 ,34050
+queensland,Queensland,202001 ,12818
+western australia,Western Australia,202001 ,6403
+south australia,South Australia,202001 ,6196
+tasmania,Tasmania,202001 ,2422
+australian capital territory,Australian Capital Territory,202001 ,1793
+northern territory,Northern Territory,202001 ,3110
+new south wales,New South Wales,202002 ,23765
+victoria,Victoria,202002 ,33817
+queensland,Queensland,202002 ,13219
+western australia,Western Australia,202002 ,6288
+south australia,South Australia,202002 ,6205
+tasmania,Tasmania,202002 ,2400
+australian capital territory,Australian Capital Territory,202002 ,1799
+northern territory,Northern Territory,202002 ,3210
+new south wales,New South Wales,202003 ,24033
+victoria,Victoria,202003 ,34068
+queensland,Queensland,202003 ,12744
+western australia,Western Australia,202003 ,6213
+south australia,South Australia,202003 ,6481
+tasmania,Tasmania,202003 ,2435
+australian capital territory,Australian Capital Territory,202003 ,1891
+northern territory,Northern Territory,202003 ,3246
+new south wales,New South Wales,202004 ,22704
+victoria,Victoria,202004 ,33196
+queensland,Queensland,202004 ,12210
+western australia,Western Australia,202004 ,5489
+south australia,South Australia,202004 ,6351
+tasmania,Tasmania,202004 ,2301
+australian capital territory,Australian Capital Territory,202004 ,1907
+northern territory,Northern Territory,202004 ,3199
+new south wales,New South Wales,202005 ,22611
+victoria,Victoria,202005 ,33006
+queensland,Queensland,202005 ,12228
+western australia,Western Australia,202005 ,5760
+south australia,South Australia,202005 ,6447
+tasmania,Tasmania,202005 ,2297
+australian capital territory,Australian Capital Territory,202005 ,1941
+northern territory,Northern Territory,202005 ,3178
+new south wales,New South Wales,202006 ,23059
+victoria,Victoria,202006 ,33271
+queensland,Queensland,202006 ,12589
+western australia,Western Australia,202006 ,6064
+south australia,South Australia,202006 ,6635
+tasmania,Tasmania,202006 ,2305
+australian capital territory,Australian Capital Territory,202006 ,1958
+northern territory,Northern Territory,202006 ,3091
+new south wales,New South Wales,202007 ,22665
+victoria,Victoria,202007 ,33087
+queensland,Queensland,202007 ,12409
+western australia,Western Australia,202007 ,6036
+south australia,South Australia,202007 ,6636
+tasmania,Tasmania,202007 ,2282
+australian capital territory,Australian Capital Territory,202007 ,1912
+northern territory,Northern Territory,202007 ,2952
+new south wales,New South Wales,202008 ,22657
+victoria,Victoria,202008 ,32788
+queensland,Queensland,202008 ,12550
+western australia,Western Australia,202008 ,6045
+south australia,South Australia,202008 ,6485
+tasmania,Tasmania,202008 ,2352
+australian capital territory,Australian Capital Territory,202008 ,1869
+northern territory,Northern Territory,202008 ,2998
+new south wales,New South Wales,202009 ,23614
+victoria,Victoria,202009 ,33664
+queensland,Queensland,202009 ,13103
+western australia,Western Australia,202009 ,6370
+south australia,South Australia,202009 ,6650
+tasmania,Tasmania,202009 ,2401
+australian capital territory,Australian Capital Territory,202009 ,1904
+northern territory,Northern Territory,202009 ,3194
+new south wales,New South Wales,202010 ,23662
+victoria,Victoria,202010 ,33351
+queensland,Queensland,202010 ,12966
+western australia,Western Australia,202010 ,6753
+south australia,South Australia,202010 ,6479
+tasmania,Tasmania,202010 ,2408
+australian capital territory,Australian Capital Territory,202010 ,1886
+northern territory,Northern Territory,202010 ,3252
+new south wales,New South Wales,202011 ,24102
+victoria,Victoria,202011 ,33573
+queensland,Queensland,202011 ,12849
+western australia,Western Australia,202011 ,6652
+south australia,South Australia,202011 ,6358
+tasmania,Tasmania,202011 ,2508
+australian capital territory,Australian Capital Territory,202011 ,1853
+northern territory,Northern Territory,202011 ,3370
+new south wales,New South Wales,202012 ,23195
+victoria,Victoria,202012 ,32621
+queensland,Queensland,202012 ,12321
+western australia,Western Australia,202012 ,6582
+south australia,South Australia,202012 ,6285
+tasmania,Tasmania,202012 ,2510
+australian capital territory,Australian Capital Territory,202012 ,1808
+northern territory,Northern Territory,202012 ,3273
+new south wales,New South Wales,202101 ,23071
+victoria,Victoria,202101 ,31795
+queensland,Queensland,202101 ,12575
+western australia,Western Australia,202101 ,6729
+south australia,South Australia,202101 ,5961
+tasmania,Tasmania,202101 ,2537
+australian capital territory,Australian Capital Territory,202101 ,1848
+northern territory,Northern Territory,202101 ,3423
+new south wales,New South Wales,202102 ,24314
+victoria,Victoria,202102 ,32402
+queensland,Queensland,202102 ,12987
+western australia,Western Australia,202102 ,6623
+south australia,South Australia,202102 ,6359
+tasmania,Tasmania,202102 ,2600
+australian capital territory,Australian Capital Territory,202102 ,1889
+northern territory,Northern Territory,202102 ,3311
+new south wales,New South Wales,202103 ,25087
+victoria,Victoria,202103 ,32907
+queensland,Queensland,202103 ,13554
+western australia,Western Australia,202103 ,7221
+south australia,South Australia,202103 ,6736
+tasmania,Tasmania,202103 ,2658
+australian capital territory,Australian Capital Territory,202103 ,1890
+northern territory,Northern Territory,202103 ,3524
+new south wales,New South Wales,202104 ,24848
+victoria,Victoria,202104 ,32619
+queensland,Queensland,202104 ,13258
+western australia,Western Australia,202104 ,6830
+south australia,South Australia,202104 ,6350
+tasmania,Tasmania,202104 ,2530
+australian capital territory,Australian Capital Territory,202104 ,1846
+northern territory,Northern Territory,202104 ,3396
+new south wales,New South Wales,202105 ,25101
+victoria,Victoria,202105 ,33787
+queensland,Queensland,202105 ,13640
+western australia,Western Australia,202105 ,6985
+south australia,South Australia,202105 ,6532
+tasmania,Tasmania,202105 ,2624
+australian capital territory,Australian Capital Territory,202105 ,1812
+northern territory,Northern Territory,202105 ,3391
+new south wales,New South Wales,202106 ,24712
+victoria,Victoria,202106 ,34097
+queensland,Queensland,202106 ,13962
+western australia,Western Australia,202106 ,7003
+south australia,South Australia,202106 ,6360
+tasmania,Tasmania,202106 ,2665
+australian capital territory,Australian Capital Territory,202106 ,1823
+northern territory,Northern Territory,202106 ,3468
+new south wales,New South Wales,202107 ,24339
+victoria,Victoria,202107 ,34124
+queensland,Queensland,202107 ,13689
+western australia,Western Australia,202107 ,6849
+south australia,South Australia,202107 ,5225
+tasmania,Tasmania,202107 ,2671
+australian capital territory,Australian Capital Territory,202107 ,1817
+northern territory,Northern Territory,202107 ,3491
+new south wales,New South Wales,202108 ,24049
+victoria,Victoria,202108 ,34116
+queensland,Queensland,202108 ,13814
+western australia,Western Australia,202108 ,6873
+south australia,South Australia,202108 ,6125
+tasmania,Tasmania,202108 ,2728
+australian capital territory,Australian Capital Territory,202108 ,1835
+northern territory,Northern Territory,202108 ,3401
+new south wales,New South Wales,202109 ,23891
+victoria,Victoria,202109 ,33676
+queensland,Queensland,202109 ,13697
+western australia,Western Australia,202109 ,7024
+south australia,South Australia,202109 ,6357
+tasmania,Tasmania,202109 ,2694
+australian capital territory,Australian Capital Territory,202109 ,1909
+northern territory,Northern Territory,202109 ,3635
+new south wales,New South Wales,202110 ,23748
+victoria,Victoria,202110 ,33635
+queensland,Queensland,202110 ,13751
+western australia,Western Australia,202110 ,7123
+south australia,South Australia,202110 ,6543
+tasmania,Tasmania,202110 ,2715
+australian capital territory,Australian Capital Territory,202110 ,1960
+northern territory,Northern Territory,202110 ,3644
+new south wales,New South Wales,202111 ,24235
+victoria,Victoria,202111 ,33335
+queensland,Queensland,202111 ,14130
+western australia,Western Australia,202111 ,7075
+south australia,South Australia,202111 ,6736
+tasmania,Tasmania,202111 ,2719
+australian capital territory,Australian Capital Territory,202111 ,1975
+northern territory,Northern Territory,202111 ,3521
+new south wales,New South Wales,202112 ,23139
+victoria,Victoria,202112 ,32233
+queensland,Queensland,202112 ,13368
+western australia,Western Australia,202112 ,6748
+south australia,South Australia,202112 ,6299
+tasmania,Tasmania,202112 ,2695
+australian capital territory,Australian Capital Territory,202112 ,1887
+northern territory,Northern Territory,202112 ,3321
+new south wales,New South Wales,202201 ,22913
+victoria,Victoria,202201 ,31553
+queensland,Queensland,202201 ,13334
+western australia,Western Australia,202201 ,6634
+south australia,South Australia,202201 ,6234
+tasmania,Tasmania,202201 ,2697
+australian capital territory,Australian Capital Territory,202201 ,1881
+northern territory,Northern Territory,202201 ,2972
+new south wales,New South Wales,202202 ,23514
+victoria,Victoria,202202 ,32417
+queensland,Queensland,202202 ,13657
+western australia,Western Australia,202202 ,6527
+south australia,South Australia,202202 ,6344
+tasmania,Tasmania,202202 ,2789
+australian capital territory,Australian Capital Territory,202202 ,1873
+northern territory,Northern Territory,202202 ,2954
+new south wales,New South Wales,202203 ,24217
+victoria,Victoria,202203 ,33059
+queensland,Queensland,202203 ,14255
+western australia,Western Australia,202203 ,6903
+south australia,South Australia,202203 ,6686
+tasmania,Tasmania,202203 ,2909
+australian capital territory,Australian Capital Territory,202203 ,1914
+northern territory,Northern Territory,202203 ,3304
+new south wales,New South Wales,202204 ,23160
+victoria,Victoria,202204 ,31192
+queensland,Queensland,202204 ,13504
+western australia,Western Australia,202204 ,6318
+south australia,South Australia,202204 ,6057
+tasmania,Tasmania,202204 ,2808
+australian capital territory,Australian Capital Territory,202204 ,1850
+northern territory,Northern Territory,202204 ,3214
+new south wales,New South Wales,202205 ,23793
+victoria,Victoria,202205 ,32634
+queensland,Queensland,202205 ,13763
+western australia,Western Australia,202205 ,6675
+south australia,South Australia,202205 ,6575
+tasmania,Tasmania,202205 ,2860
+australian capital territory,Australian Capital Territory,202205 ,1894
+northern territory,Northern Territory,202205 ,3452
+new south wales,New South Wales,202206 ,23664
+victoria,Victoria,202206 ,32461
+queensland,Queensland,202206 ,13913
+western australia,Western Australia,202206 ,6715
+south australia,South Australia,202206 ,6852
+tasmania,Tasmania,202206 ,2764
+australian capital territory,Australian Capital Territory,202206 ,1921
+northern territory,Northern Territory,202206 ,3326
