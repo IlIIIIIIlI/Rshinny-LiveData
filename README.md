@@ -26,8 +26,11 @@ Install the required packages by running `install.packages(c("shiny", "leaflet",
 ## 📖 Project Structure
 The RShiny app consists of three main pages, which can be navigated using the top bar control:
 
-## 🌏 Overview: This page provides an overview of the Australian bushfire situation, including general statistics and a map showing the affected areas. It also includes a summary of the impact on the koala population.
+## 🌏 Overview
+This page provides an overview of the Australian bushfire situation, including general statistics and a map showing the affected areas. It also includes a summary of the impact on the koala population.
 
-## 🔥 Bushfire Data: This page displays detailed data related to the bushfires, such as the location, size, and duration of the fires. The data can be explored using interactive tables and charts.
+## 🔥 Bushfire Data
+This page displays detailed data related to the bushfires, such as the location, size, and duration of the fires. The data can be explored using interactive tables and charts.
 
-## 🐨 Koala Data: This page focuses on the impact of the bushfires on the koala population, presenting information on koala habitats, population estimates, and the number of koalas affected by the fires. It includes interactive maps, charts, and tables to visualize the data.
+## 🐨 Koala Data
+This page focuses on the impact of the bushfires on the koala population, presenting information on koala habitats, population estimates, and the number of koalas affected by the fires. It includes interactive maps, charts, and tables to visualize the data.
