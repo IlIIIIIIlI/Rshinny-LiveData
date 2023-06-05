@@ -1,6 +1,9 @@
 ## 🐨 Koala Rescue: Australia Bushfire Visualization 🇦🇺🔥
 This RShiny project aims to visualize the impact of bushfires on the Australian koala population. The app consists of three main pages, which can be navigated using the top bar control. All the required packages are included in the app.R file using if require() statements.
 
+## Demo
+[![Youtube Video](http://img.youtube.com/vi/FKLT9vTf7S4/0.jpg)](https://youtu.be/FKLT9vTf7S4)
+
 ## 📁 Files
 The project contains only one main file:
 
